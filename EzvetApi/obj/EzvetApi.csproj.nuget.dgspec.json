@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joan Bottger\\RiderProjects\\EzvetApi\\EzvetApi\\EzvetApi.csproj": {}
+    "C:\\Users\\star\\OneDrive\\Escritorio\\WEB_TF\\back_definitivo\\BackendApi\\EzvetApi\\EzvetApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joan Bottger\\RiderProjects\\EzvetApi\\EzvetApi\\EzvetApi.csproj": {
+    "C:\\Users\\star\\OneDrive\\Escritorio\\WEB_TF\\back_definitivo\\BackendApi\\EzvetApi\\EzvetApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joan Bottger\\RiderProjects\\EzvetApi\\EzvetApi\\EzvetApi.csproj",
+        "projectUniqueName": "C:\\Users\\star\\OneDrive\\Escritorio\\WEB_TF\\back_definitivo\\BackendApi\\EzvetApi\\EzvetApi.csproj",
         "projectName": "EzvetApi",
-        "projectPath": "C:\\Users\\Joan Bottger\\RiderProjects\\EzvetApi\\EzvetApi\\EzvetApi.csproj",
-        "packagesPath": "C:\\Users\\Joan Bottger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joan Bottger\\RiderProjects\\EzvetApi\\EzvetApi\\obj\\",
+        "projectPath": "C:\\Users\\star\\OneDrive\\Escritorio\\WEB_TF\\back_definitivo\\BackendApi\\EzvetApi\\EzvetApi.csproj",
+        "packagesPath": "C:\\Users\\star\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\star\\OneDrive\\Escritorio\\WEB_TF\\back_definitivo\\BackendApi\\EzvetApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Joan Bottger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\star\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,13 +46,57 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
+            "BCrypt.Net-Next": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[4.0.3, )"
+            },
+            "EntityFrameworkCore.CreatedUpdatedDate": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[7.6.0, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.6.0, )"
             }
           },
           "imports": [
