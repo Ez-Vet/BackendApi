@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EzvetApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bae80f1306b3468552f5404295426c6687787022")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a6ff4394b5b83848914033648574e5aa715f6a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("EzvetApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EzvetApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

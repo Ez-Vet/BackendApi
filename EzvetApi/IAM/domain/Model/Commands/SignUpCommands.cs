@@ -4,6 +4,9 @@ namespace EzvetApi.IAM.domain.Model.Commands
         string Name,
         string Email,
         string Password,
-        string CardNumber,
-        DateTime ExpiryDate);
+        string Speciality,
+        string Phone,
+        string DNI
+        );
 }
+
