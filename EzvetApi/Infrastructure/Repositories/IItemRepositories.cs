@@ -5,19 +5,19 @@ namespace EzvetApi.Infrastructure.Repositories
 {
     public interface IItemRepository
     {
-        // Método para obtener todos los Item
+        // Método para obtener todos los items
         IEnumerable<Item> GetAll();
 
-        // Método para obtener un Item por ID
+        // Método para obtener un item por ID
         Item GetById(int id);
 
-        // Método para crear un nuevo Item
+        // Método para crear un nuevo item
         void Add(Item item);
 
-        // Método para actualizar un Item existente
+        // Método para actualizar un item existente
         void Update(Item item);
 
-        // Método para eliminar un Item por ID
+        // Método para eliminar un item por ID
         void Delete(int id);
     }
 }
