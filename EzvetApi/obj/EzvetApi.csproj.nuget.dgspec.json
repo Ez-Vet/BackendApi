@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joan Bottger\\RiderProjects\\EzvetApi\\EzvetApi\\EzvetApi.csproj": {}
+    "C:\\Users\\Diego Bastidas\\Desktop\\Nueva carpeta (2)\\BackendApi\\EzvetApi\\EzvetApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joan Bottger\\RiderProjects\\EzvetApi\\EzvetApi\\EzvetApi.csproj": {
+    "C:\\Users\\Diego Bastidas\\Desktop\\Nueva carpeta (2)\\BackendApi\\EzvetApi\\EzvetApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joan Bottger\\RiderProjects\\EzvetApi\\EzvetApi\\EzvetApi.csproj",
+        "projectUniqueName": "C:\\Users\\Diego Bastidas\\Desktop\\Nueva carpeta (2)\\BackendApi\\EzvetApi\\EzvetApi.csproj",
         "projectName": "EzvetApi",
-        "projectPath": "C:\\Users\\Joan Bottger\\RiderProjects\\EzvetApi\\EzvetApi\\EzvetApi.csproj",
-        "packagesPath": "C:\\Users\\Joan Bottger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joan Bottger\\RiderProjects\\EzvetApi\\EzvetApi\\obj\\",
+        "projectPath": "C:\\Users\\Diego Bastidas\\Desktop\\Nueva carpeta (2)\\BackendApi\\EzvetApi\\EzvetApi.csproj",
+        "packagesPath": "C:\\Users\\Diego Bastidas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diego Bastidas\\Desktop\\Nueva carpeta (2)\\BackendApi\\EzvetApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Joan Bottger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Diego Bastidas\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Diego Bastidas\\.dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
