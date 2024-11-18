@@ -9,7 +9,7 @@ namespace EzvetApi.Models
         public string Description { get; set; }
         public DateTime Date { get; set; }
         public string Time { get; set; }
-        public string Type { get; set; } // Tipo: "Cita Pendiente" o "Vacuna Pendiente"
-        public string PetName { get; set; } // Nombre de la mascota (si aplica)
+        public string Type { get; set; } 
+        public string PetName { get; set; } 
     }
 }
