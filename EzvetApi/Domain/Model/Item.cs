@@ -1,4 +1,4 @@
-namespace EzvetApi.Models;
+namespace EzvetApi.Domain.Model;
 
 public class Item
 {
